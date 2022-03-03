@@ -1,7 +1,7 @@
 # Amader-Internet-Preview
 This webpage Architecture:
-     Front-end : Vue.js
-     Back-end  : Node.js
+     Front-end : Vue.js ,
+     Back-end  : Node.js ,
      Database  : Mongodb ( Nosql)
      
 
