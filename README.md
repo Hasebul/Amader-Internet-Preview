@@ -22,5 +22,5 @@ Basic functionality : (1) Payment system ,
                       
                       
 #GitHub Link
-Front-end-link : https://github.com/ruhan-islam/easy_internet_service--front_end
+Front-end-link : https://github.com/ruhan-islam/easy_internet_service--front_end                             
 Back-end-link  : https://github.com/Hasebul/Amader_Internet_Backend_Update
