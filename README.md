@@ -9,8 +9,8 @@ This webpage Architecture:
 
 Link : https://amader-internet-front.herokuapp.com/
 
-For preview Nttn funtionality log in as NTTN , username : nttn , password : 123abc
-For preview ISP functinality log in as ISP , username : KS , password : 123abc
+For preview Nttn funtionality log in as NTTN , username : nttn , password : 123abc                          
+For preview ISP functinality log in as ISP , username : KS , password : 123abc                              
 For preview USER functionality log in as USER , username : shawon , password :123abc
 
 Basic functionality : (1) Payment system , 
